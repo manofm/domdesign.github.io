@@ -1,0 +1,20 @@
+html {
+    background-color: turquoise;
+    background-image: url(../img/bc.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#fej {
+    background:rgb(13, 157, 214);
+    color: blue;
+    font-family: 'Sectar', Sectar;
+    font-weight: bold;
+}
+
+#kov {
+    background:rgb(13, 157, 214);
+    color: blue;
+    font-family: 'pacifico', cursive;
+    font-weight: bold;
+}
